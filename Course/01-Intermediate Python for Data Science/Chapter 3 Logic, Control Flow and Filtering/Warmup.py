@@ -6,4 +6,4 @@ elif(area < 12) :
 else :
     print("large")
 
-False
+output = medium
