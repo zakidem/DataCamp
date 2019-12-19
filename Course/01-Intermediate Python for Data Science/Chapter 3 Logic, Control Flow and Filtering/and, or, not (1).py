@@ -10,3 +10,6 @@ print (my_kitchen < 14 or my_kitchen > 17)
 
 # Double my_kitchen smaller than triple your_kitchen?
 print (my_kitchen * 2 < your_kitchen * 3)
+
+>>and, or, not (2)<<
+False
